@@ -1,0 +1,14 @@
+{
+  "name": "pavel_salnikov",
+  "description": "Minimal router and client",
+  "version": "0.0.1",
+  "devDependencies": {},
+  "dependencies": {
+    "csv-reader": "^1.0.2",
+    "csv-write-stream": "^2.0.0",
+    "lodash": "^4.17.5"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
