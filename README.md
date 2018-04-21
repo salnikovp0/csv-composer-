@@ -2,10 +2,10 @@
 
 # SCV compressor 
 
-##Install
+## Install
 npm i
 
-##Run 
+## Run 
 node app.js <name of the input scv file>
 
 
